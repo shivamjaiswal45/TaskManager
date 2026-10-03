@@ -146,7 +146,7 @@ const handleEditKeyPress = (e, id) => {
       //clear completed todos
       const clearCompleted = () => {
         setTodos(todos.filter((todo) => !todo.completed));
-        playSound("deleted");
+        playSound("delete");
         showNotification("🧹 Completed tasks cleared!", "info");
       }
 const activeTodos = todos.filter((todo) => !todo.completed).length;
