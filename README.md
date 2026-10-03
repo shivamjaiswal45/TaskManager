@@ -24,7 +24,7 @@ A fast, beautiful, distraction-free task manager that gets out of your way and l
 
 <br>
 
-<img src="./screenshots/progress.png" alt="TaskFlow in action with progress tracking" width="90%">
+<img src="./screenshot/progress.png" alt="TaskFlow in action with progress tracking" width="90%">
 
 </div>
 
@@ -62,7 +62,7 @@ Most to-do apps are bloated with sign-ups, sync dialogs and features you never t
 
 | Empty state | Your task list | Tracking progress |
 | :---: | :---: | :---: |
-| <img src="./screenshots/empty-state.png" alt="Empty state" width="300"> | <img src="./screenshots/tasks.png" alt="Task list" width="300"> | <img src="./screenshots/progress.png" alt="Progress at 50%" width="300"> |
+| <img src="./screenshot/empty-state.png" alt="Empty state" width="300"> | <img src="./screenshot/tasks.png" alt="Task list" width="300"> | <img src="./screenshot/progress.png" alt="Progress at 50%" width="300"> |
 
 </div>
 
